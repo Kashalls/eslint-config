@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-kashall",
+  "version": "4.2.0",
+  "description": "A central shareable eslint config for all of my repos. Intended for private use but you can use it too.",
+  "main": "index.js",
+  "repository": "https://github.com/Kashalls/kashall-lint",
+  "author": "Kashalls",
+  "license": "MIT"
+}
