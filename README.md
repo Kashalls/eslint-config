@@ -23,3 +23,23 @@ requires:
 requires:
 * eslint
 * eslint-plugin-markdown
+
+## eslint-typescript rules
+```json
+{
+	"extends": "kashall/eslint-ts"
+}
+```
+requires:
+* eslint
+* @typescript-eslint/parser
+* @typescript-eslint/eslint-plugin
+
+## tslint rules
+```json
+{
+	"extends": "eslint-config-kashall/ts"
+}
+```
+requires:
+* tslint
