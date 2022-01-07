@@ -1,16 +1,16 @@
-# @kashalls/eslint-config
+# @akashics/eslint-config
 
 > :scroll: **Shareable ESLint configuration for my projects**
 
 ```bash
-npm i --save-dev @kashalls/eslint-config
-yarn add -D @kashalls/eslint-config
+npm i --save-dev @akashics/eslint-config
+yarn add -D @akashics/eslint-config
 ```
 
 ## standard eslint rules
 ```json
 {
-	"extends": "@kashalls"
+	"extends": "@akashics"
 }
 ```
 requires:
@@ -19,7 +19,7 @@ requires:
 ## eslint-typescript rules
 ```json
 {
-	"extends": "@kashalls/ts"
+	"extends": "@akashics/ts"
 }
 ```
 requires:

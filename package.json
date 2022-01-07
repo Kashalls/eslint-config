@@ -1,5 +1,5 @@
 {
-  "name": "@kashalls/eslint-config",
+  "name": "@akashics/eslint-config",
   "version": "4.2.0",
   "description": "📜 Shareable ESLint configuration for my projects",
   "main": "index.js",
