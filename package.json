@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "eslint": "^8.6.0"
-  }
+  },
+  "optionalDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.9.0",
+    "@typescript-eslint/parser": "5.9.0"
+  },
+  "files": [
+    "index.js",
+    "ts.js"
+  ]
 }
